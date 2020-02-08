@@ -8,7 +8,7 @@
 
 ### **Goal:**
 
-I want to be a Front End developer in good company to improve my skills in Java Script, Node JS, and frameworks. I'm realy like new technology. Also, I want to improve my English level.
+I want to be a Front End developer in a good company to improve my skills in JavaScript, Node JS, and frameworks. I realy like new technologies.
 
 ### **Skills:**
   * JavaScript
